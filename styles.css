@@ -4,4 +4,13 @@ body {
 
 .signup {
   border: 0.5px solid #c1c1c1;
+  text-align: center;
+}
+
+input {
+  display: block;
+}
+
+button {
+  background-color: #F9AFA2;
 }
