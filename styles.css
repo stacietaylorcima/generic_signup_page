@@ -1,13 +1,15 @@
 body {
   font-family: 'Montserrat', sans-serif;
   color: #5b5b5b;
+  background-color: #E8E8E8;
 }
 
 .signup {
-  border: 0.5px solid #c1c1c1;
-  -webkit-box-shadow: 0 0 50px #aaaaaa;
-  -moz-box-shadow: 0 0 50px #aaaaaa;
-  box-shadow: 0 0 50px #aaaaaa;
+  background-color: white;
+  border: 0.5px solid #9e9e9e;
+  -webkit-box-shadow: 0 0 50px #8e8e8e;
+  -moz-box-shadow: 0 0 50px #8e8e8e;
+  box-shadow: 0 0 50px #8e8e8e;
   padding: 100px 75px 130px 75px;
   text-align: center;
   position: absolute;
