@@ -4,6 +4,7 @@ body {
 
 .signup {
   border: 0.5px solid #c1c1c1;
+  padding: 25px 50px 50px 50px;
   text-align: center;
 }
 
@@ -13,4 +14,5 @@ input {
 
 button {
   background-color: #F9AFA2;
+  padding: 5px 25px 5px 25px;
 }
