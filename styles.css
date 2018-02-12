@@ -2,6 +2,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #5b5b5b;
   background-color: #E8E8E8;
+  overflow: hidden;
 }
 
 .signup {
@@ -53,5 +54,21 @@ button {
 }
 
 .hex {
-  margin: 0 5px 0 5px;
+  margin: 0 10px 0 10px;
+}
+
+.hex-line-1 {
+  margin-left: 45px;
+}
+
+.hex-line-2 {
+}
+
+.hex-line-3 {
+}
+
+.hex-line-4 {
+}
+
+.hex-line-5 {
 }
