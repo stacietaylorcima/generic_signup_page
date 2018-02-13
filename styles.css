@@ -61,34 +61,37 @@ button {
 }
 
 .hex {
-  margin: 0 10px 0 10px;
+  margin: 0 50px 0 50px;
+  transform: scale(1.5,1.5);
 }
 
 .hex-line-1 {
   position: absolute;
   top: -50px;
-  left: 40px;
+  left: 60px;
 }
 
 .hex-line-2 {
   position: absolute;
-  top: 115px;
-  left: -50px;
+  top: 190px;
+  left: -72px;
 }
 
 .hex-line-3 {
   position: absolute;
-  top: 285px;
-  left: 40px;
+  top: 430px;
+  left: 60px;
 }
 
 
 .hex-line-4 {
   position: absolute;
-  top: 400px;
-  left: 40px;
+  top: 670px;
+  left: -72px;
 }
 
 .hex-line-5 {
-
+  position: absolute;
+  top: 910px;
+  left: -205px;
 }
