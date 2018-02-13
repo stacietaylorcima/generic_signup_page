@@ -1,8 +1,9 @@
-body {
+body, html {
   font-family: 'Montserrat', sans-serif;
   color: #5b5b5b;
   background-color: #E8E8E8;
   overflow: hidden;
+  height: 100%;
 }
 
 .signup {
@@ -56,6 +57,7 @@ button {
 .outer {
   overflow: hidden;
   position: relative;
+  height: 100%;
 }
 
 .hex {
@@ -80,8 +82,11 @@ button {
   left: 40px;
 }
 
-.hex-line-4 {
 
+.hex-line-4 {
+  position: absolute;
+  top: 400px;
+  left: 40px;
 }
 
 .hex-line-5 {
