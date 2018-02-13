@@ -53,22 +53,37 @@ button {
   height: 40px;
 }
 
+.outer {
+  overflow: hidden;
+  position: relative;
+}
+
 .hex {
   margin: 0 10px 0 10px;
 }
 
 .hex-line-1 {
-  margin-left: 45px;
+  position: absolute;
+  top: -50px;
+  left: 40px;
 }
 
 .hex-line-2 {
+  position: absolute;
+  top: 115px;
+  left: -50px;
 }
 
 .hex-line-3 {
+  position: absolute;
+  top: 285px;
+  left: 40px;
 }
 
 .hex-line-4 {
+
 }
 
 .hex-line-5 {
+
 }
